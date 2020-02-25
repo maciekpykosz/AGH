@@ -1,0 +1,17 @@
+
+Poczatek procedury macierz-wektor
+
+czas standardowy = 0.332860
+czas CPU         = 0.332862
+czas zegarowy    = 0.167770
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.167758, Gflop/s: 4.394907, GB/s> 17.580543
+
+Poczatek procedur sprawdzajacych
+czas standardowy = 0.493541
+czas CPU         = 0.493543
+czas zegarowy    = 0.246031
+
+Koniec procedury macierz-wektor
+	czas wykonania: 0.246026, Gflop/s: 2.996758, GB/s> 11.987658

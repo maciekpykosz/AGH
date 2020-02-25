@@ -1,0 +1,56 @@
+FORK
+/////
+Debug
+czas standardowy = 0.020000
+czas CPU         = 0.000000
+czas zegarowy    = 0.089609
+
+czas standardowy = 0.020000
+czas CPU         = 0.003057
+czas zegarowy    = 0.087800
+
+czas standardowy = 0.020000
+czas CPU         = 0.001078
+czas zegarowy    = 0.088527
+
+Optymalizacja
+czas standardowy = 0.020000
+czas CPU         = 0.002756
+czas zegarowy    = 0.087258
+
+czas standardowy = 0.020000
+czas CPU         = 0.001164
+czas zegarowy    = 0.087385
+
+czas standardowy = 0.020000
+czas CPU         = 0.000000
+czas zegarowy    = 0.087648
+
+CLONE
+//////////
+Debug
+czas standardowy = 0.000000
+czas CPU         = 0.000280
+czas zegarowy    = 0.010776
+
+czas standardowy = 0.000000
+czas CPU         = 0.000825
+czas zegarowy    = 0.010742
+
+czas standardowy = 0.000000
+czas CPU         = 0.000000
+czas zegarowy    = 0.010755
+
+Optymalizacja
+czas standardowy = 0.000000
+czas CPU         = 0.001612
+czas zegarowy    = 0.010429
+
+czas standardowy = 0.000000
+czas CPU         = 0.002656
+czas zegarowy    = 0.010489
+
+czas standardowy = 0.000000
+czas CPU         = 0.000520
+czas zegarowy    = 0.011226
+
